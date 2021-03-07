@@ -33,7 +33,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="da124d08-a11e-4dbf-8c08-e19ef1338bf2" />
   <component name="ProjectId" id="1i3OEdgL5rdAzWRhJ2d0POR2r4U" />
@@ -53,7 +53,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.face_main">
     <configuration name="face_collect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -216,6 +216,7 @@
       <workItem from="1608624979951" duration="54000" />
       <workItem from="1609068909724" duration="552000" />
       <workItem from="1609248731476" duration="801000" />
+      <workItem from="1615119628898" duration="76000" />
     </task>
     <servers />
   </component>
@@ -234,68 +235,11 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="479" y="234" key="#Notifications" timestamp="1609069371197">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="479" y="234" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1609069371197" />
-    <state x="496" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601198172820">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="496" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601198172820" />
-    <state x="449" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609248738520">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="449" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1609248738520" />
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607330548972">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1607330548972" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1608088317469">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608088317469" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1609069486122">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609069486122" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1609069486122">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609069486122" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1609069486122">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609069486122" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1609069486122">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609069486122" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1601199744554">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601199744554" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1601199744554">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601199744554" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1601199744554">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601199744554" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1601199744554">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601199744554" />
-    <state x="42" y="0" key="SettingsEditor" timestamp="1609249564481">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="262" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1609069484403" />
-    <state x="42" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1609249564481" />
-    <state x="564" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609069386188">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="564" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609069386188" />
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/06_$1.coverage" NAME="1 Coverage Results" MODIFIED="1601178362732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
